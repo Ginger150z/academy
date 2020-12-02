@@ -1,4 +1,8 @@
-package hwRegExp;
+package hwRegExp.deal;
+
+import hwRegExp.Task_5_AmericanPhoneValidator;
+import hwRegExp.Task_5_BelarusPhoneValidator;
+import hwRegExp.Task_5_EmailValidator;
 
 public class Task_5_Main {
 	public static void main(String[] args) {
